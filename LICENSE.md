@@ -1,4 +1,4 @@
-# 
+# Professional Aseprite extensions for Mac OS | Ultimate Aseprite extensions for PC Windows. Featuring smear-tool and 3D-modeling — optimized for maximum performance on every platform.
 
 
 
